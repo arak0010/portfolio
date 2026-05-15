@@ -119,3 +119,10 @@ ul li {
     padding: 25px 15px;
   }
 }
+
+
+/* ===== Active Navigation ===== */
+nav a.active {
+  border-bottom: 2px solid #0a66c2;
+  padding-bottom: 4px;
+}
